@@ -1,3 +1,7 @@
+I cloned this repo to play around with these new technologies.  Please see [the original repo.](https://github.com/davezuko/react-redux-starter-kit)
+
+
+
 # React Redux Starter Kit
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
