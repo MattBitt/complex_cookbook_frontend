@@ -1,0 +1,12 @@
+.recipeDetail {
+  font-weight: bold;
+}
+
+.recipeDetail--green {
+  composes: recipeDetail;
+  color: rgb(25,200,25);
+}
+
+.recipeDetailContainer {
+  margin: 1em auto;
+}
